@@ -1,0 +1,105 @@
+RepeatMasker version 4.1.2-p1
+Search Engine: NCBI/RMBLAST [ 2.11.0+ ]
+
+Using Master RepeatMasker Database: /usr/local/RepeatMasker/Libraries/RepeatMaskerLib.h5
+  Title    : Dfam
+  Version  : 3.3
+  Date     : 2020-11-09
+  Families : 6,953
+
+Species/Taxa Search:
+  Arthropoda [NCBI Taxonomy ID: 6656]
+  Lineage: root;cellular organisms;Eukaryota;Opisthokonta;Metazoa
+  16 families in ancestor taxa; 2761 lineage-specific families
+
+
+analyzing file test_file.fasta.cd
+
+Some previous RepeatMasker output files were moved to the directory 
+./test_file.fasta.cd.preSunJun200849112021.RMoutput 
+in order not to overwrite them.
+
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 1 of 14
+identifying Simple Repeats in batch 3 of 14
+identifying Simple Repeats in batch 2 of 14
+identifying Simple Repeats in batch 4 of 14
+identifying matches to arthropods sequences in batch 1 of 14
+identifying matches to arthropods sequences in batch 3 of 14
+identifying matches to arthropods sequences in batch 4 of 14
+identifying matches to arthropods sequences in batch 2 of 14
+identifying Simple Repeats in batch 1 of 14
+identifying Simple Repeats in batch 3 of 14
+identifying Simple Repeats in batch 4 of 14
+identifying Simple Repeats in batch 2 of 14
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 5 of 14
+identifying Simple Repeats in batch 6 of 14
+identifying Simple Repeats in batch 7 of 14
+identifying Simple Repeats in batch 8 of 14
+identifying matches to arthropods sequences in batch 5 of 14
+identifying matches to arthropods sequences in batch 7 of 14
+identifying matches to arthropods sequences in batch 6 of 14
+identifying matches to arthropods sequences in batch 8 of 14
+identifying Simple Repeats in batch 5 of 14
+identifying Simple Repeats in batch 6 of 14
+identifying Simple Repeats in batch 7 of 14
+identifying Simple Repeats in batch 8 of 14
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 9 of 14
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 10 of 14
+identifying matches to arthropods sequences in batch 9 of 14
+identifying Simple Repeats in batch 11 of 14
+identifying matches to arthropods sequences in batch 10 of 14
+identifying Simple Repeats in batch 12 of 14
+identifying matches to arthropods sequences in batch 11 of 14
+identifying matches to arthropods sequences in batch 12 of 14
+identifying Simple Repeats in batch 9 of 14
+identifying Simple Repeats in batch 10 of 14
+identifying Simple Repeats in batch 11 of 14
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 12 of 14
+identifying Simple Repeats in batch 13 of 14
+identifying Simple Repeats in batch 14 of 14
+identifying matches to arthropods sequences in batch 14 of 14
+identifying matches to arthropods sequences in batch 13 of 14
+identifying Simple Repeats in batch 14 of 14
+identifying Simple Repeats in batch 13 of 14
+processing output: 
+cycle 1 .
+cycle 2 .
+cycle 3 .
+cycle 4 .
+cycle 5 
+cycle 6 .
+cycle 7 .
+cycle 8 .
+cycle 9 .
+cycle 10 .
+Generating output... .
+masking
+done
