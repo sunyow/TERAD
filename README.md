@@ -57,7 +57,7 @@ PATH=/XXXX/XXXX/cdhit:$PATH
 Test run:
 ```
 cd ~/Desktop/TERAD
-./TERAD test_file.fasta 4 ./arthro_ES_ND_PV_classified.fa none
+./TERAD test_file.fasta 4 none arthropods
 ```
 
 ## How to run
